@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a402848176a4a2b8515f60970fadb33, type: 3}
+  m_Name: Blueprint0
+  m_EditorClassIdentifier: 
+  top: {fileID: 2800000, guid: bfe30cc4833a0e94489af1fae1bb1476, type: 3}
+  face: {fileID: 2800000, guid: ce155e5344555d046b5e81d29f8fa251, type: 3}

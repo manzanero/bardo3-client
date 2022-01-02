@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2b70fe6d6164d33b1e9c86bcbed871b, type: 3}
+  m_Name: DefaultAtlas
+  m_EditorClassIdentifier: 
+  sets:
+  - {fileID: 11400000, guid: 05504120d700dd74e80c685268dd4655, type: 2}
+  - {fileID: 11400000, guid: 0ea91a61bc879644084d1b5e2e676d0a, type: 2}
+  - {fileID: 11400000, guid: 3bbd2ea5ca5dc19418eae18c903d0423, type: 2}
+  - {fileID: 11400000, guid: eb345aa2ee9657640ac514787b7660bc, type: 2}
+  defaultFloorIndex: 0
+  defaultWallIndex: 0
